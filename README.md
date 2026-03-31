@@ -35,7 +35,7 @@ The dataset includes:
 ### Top Performing Customers  
 - Amazon  
 - AtliQ e Store  
-- Flipkart  
+- AtliQ E Exclusive  
 
 ## Reports Included  
 
