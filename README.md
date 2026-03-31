@@ -34,8 +34,8 @@ The dataset includes:
 
 ### Top Performing Customers  
 - Amazon  
-- AtliQ e Store  
-- AtliQ E Exclusive  
+- AtliQ Exclusive 
+- AtliQ e Store 
 
 ## Reports Included  
 
